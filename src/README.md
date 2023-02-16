@@ -1,4 +1,6 @@
 # Hundir_la_Flota
+
+![imagen](./img/Hundirlaflota.jpg)
 Bienvenid@ a esta versión de Hundir la Flota.
 
 Este juego te hace luchar contra tu ordenador al clásico juego de hundir la flota.
